@@ -1,0 +1,7 @@
+issue 001
+
+video too big when full expanded, bigger than screen
+
+issue 002
+
+list can be more towards the middle
