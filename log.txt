@@ -1,6 +1,7 @@
 issue 001
 
 video too big when full expanded, bigger than screen
+REMOVED VIDEO
 
 issue 002
 

@@ -10,6 +10,6 @@ li {
   padding:10px;
 }
 
-#video {
-    height: 75%;
+#empty {
+    color: transparent;
 }
